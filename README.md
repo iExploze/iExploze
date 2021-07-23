@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iExploze
 - 👀 I’m interested in Game Programming
-- 🌱 I’m currently learning Java, Unity
+- 🌱 I’m currently learning Java, Unity, Python
 - 📫 How to reach me iexploze@gmail.com
 
 <!---
