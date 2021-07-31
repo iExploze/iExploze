@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @iExploze
-- 👀 I’m interested in Game Programming
-- 🌱 I’m currently learning Java, Unity, Python
-- 📫 How to reach me iexploze@gmail.com
+WELCOME TO IEXPLOZE's GITHUB!
+
+Hi there, my name is Ian, I like playing and learning to make games.
 
 <!---
 iExploze/iExploze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
